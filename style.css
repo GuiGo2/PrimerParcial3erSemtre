@@ -39,3 +39,13 @@ p{
 .card-text{
     min-height: 1rem;
 }
+
+.stripe-container .card{
+    width: 300px;
+    flex-shrink: 0;
+    margin: 1rem;
+}
+
+.stripe-container{
+    display: flex;
+}
